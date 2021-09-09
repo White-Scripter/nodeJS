@@ -1,0 +1,4 @@
+This was written by fs module writeFileSync
+and this was written by fs.writeFile ie. async writeFile
+ appended by fs.appendFile 
+Written by appendFileSync
